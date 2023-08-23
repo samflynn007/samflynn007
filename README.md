@@ -6,8 +6,8 @@ I'm a Full Stack Data Scientist
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.linkedin.com/in/mrbriit/](https://github.com/samflynn007))
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mrbriit/](https://www.linkedin.com/in/venkateshnellore/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://github.com/samflynn007])
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ([https://www.linkedin.com/in/venkateshnellore/])]
 
 
 ## 🛠 Skills
